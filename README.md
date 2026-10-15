@@ -1,3 +1,4 @@
+## Live demo:https://finpilot-ai-kefbuwpekcs9rjfjdhpd83.streamlit.app/
 # FinPilot AI — Agentic Finance Operations Assistant
 
 An AI-powered finance assistant that uses **Google Gemini, Python, pandas, and Streamlit** to analyze invoice data, identify overdue payments, calculate outstanding balances, and answer finance-related questions through a conversational interface.
